@@ -12,3 +12,4 @@ C:\Users\victo\Desktop\programacao-procedural\Listas\Lista 1\Exercício 02\obj\D
 C:\Users\victo\Desktop\programacao-procedural\Listas\Lista 1\Exercício 02\obj\Debug\net8.0\Exercício 02.pdb
 C:\Users\victo\Desktop\programacao-procedural\Listas\Lista 1\Exercício 02\obj\Debug\net8.0\Exercício 02.genruntimeconfig.cache
 C:\Users\victo\Desktop\programacao-procedural\Listas\Lista 1\Exercício 02\obj\Debug\net8.0\ref\Exercício 02.dll
+C:\Users\victo\Desktop\programacao-procedural\Listas\Lista 1\Exercício 02\obj\Debug\net8.0\Exercício 02.sourcelink.json
